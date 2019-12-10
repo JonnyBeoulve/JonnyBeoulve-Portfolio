@@ -18,6 +18,7 @@ import portfolio14 from '../assets/images/portfolio14.jpg';
 import portfolio15 from '../assets/images/portfolio15.jpg';
 import portfolio16 from '../assets/images/portfolio16.jpg';
 import portfolio17 from '../assets/images/portfolio17.jpg';
+import portfolio18 from '../assets/images/portfolio18.jpg';
 import config from '../../config';
 
 const IndexPage = () => (
@@ -90,6 +91,27 @@ const IndexPage = () => (
     </section>
 
     <section id="portfolio" className="wrapper alt">
+    <section className="spotlight">
+        <div className="image">
+          <img src={portfolio18} alt="" />
+        </div>
+        <div className="content">
+          <h2>
+            PwC Risk Proof
+          </h2>
+          <p>
+            Risk Proof is one of the products the award winning team at PwC I'm a member of has been working on. This risk assessment software is being built using React, 
+            JavaScript/TypeScript, Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
+          </p>
+          <p>
+            <a
+              href="https://digital.pwc.com/content/pwc-digital/en/products/risk-proof.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Read More About Risk Proof</a>
+          </p>
+        </div>
+      </section>
       <section className="spotlight">
         <div className="image">
           <img src={portfolio1} alt="" />
