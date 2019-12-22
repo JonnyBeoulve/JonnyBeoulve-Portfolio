@@ -43,8 +43,9 @@ const IndexPage = () => (
             I've been boundlessly fascinated by how things work for most of my life. By 15 I built my first PC, and since then I've dedicated myself to the domain of technology.
           </p>
           <p>
-            I specialize in web application development with a core competency in constructing intuitive front-end user interfaces that interact with back-end solutions. Equipped 
-            with a Computer Information Systems background, I primarily work with JavaScript, TypeScript, React, Redux, Apollo, SCSS/LESS, Styled Components, GraphQL, SQL, and MongoDB.
+          I specialize in web application development with a core competency in constructing intuitive front-end user interfaces that interact with back-end solutions. Equipped 
+          with a Computer Information Systems background, I primarily work with JavaScript, TypeScript, React, Apollo, Redux, SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, 
+          SQL, and MongoDB.
           </p>
         </header>
         <ul className="icons major">
@@ -68,8 +69,8 @@ const IndexPage = () => (
           <li className="icon solid fa-code">
             <h3>Development</h3>
             <p>
-              I'm a developer with experience using: JavaScript, TypeScript, React, Redux, Apollo, React Native, SASS/LESS, Styled Components, Node, Express, Python, Django, 
-              SQL, MongoDB, GraphQL, and AWS. I also focused on C++ during college.
+              I'm a developer with experience using JavaScript, TypeScript, React, Apollo, Redux, React Native, SASS/LESS, CSS-in-JS, Node, Express, Python, Django, 
+              GraphQL, SQL, MongoDB, and AWS. I also focused on C++ during college.
             </p>
           </li>
           <li className="icon solid fa-laptop">
@@ -100,8 +101,8 @@ const IndexPage = () => (
             PwC Risk Proof
           </h2>
           <p>
-            Risk Proof is one of the products the award winning team at PwC I'm a member of has been working on. This risk assessment software is being built using React, 
-            JavaScript/TypeScript, Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
+            Risk Proof is one of the products the award winning Digital Crime Fighters team at PwC I'm a member of has been working on. This risk assessment software is being built using 
+            React, JavaScript/TypeScript, Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
           </p>
           <p>
             <a
@@ -109,6 +110,26 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
               >Read More About Risk Proof</a>
+          </p>
+        </div>
+      </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={portfolio16} alt="" />
+        </div>
+        <div className="content">
+          <h2>
+            Conmitto
+          </h2>
+          <p>
+            While working at Stackend Solutions one of the projects I led development for was Conmitto, a maintenance, repair, and operations web application built on the React ecosystem.
+          </p>
+          <p>
+            <a
+              href="https://conmitto.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >View Conmitto Main Website</a>
           </p>
         </div>
       </section>
@@ -149,9 +170,9 @@ const IndexPage = () => (
             MovementX
           </h2>
           <p>
-            MovementX is a transformative and personalized physical therapy solution. I've been tasked with development of both the front-end using JavaScript, HTML5, and CSS3 along with 
-            the back-end that is based in Python, Django, and PostgreSQL. Production occurs in a Linux environment with deployments to AWS. Additionally, I built a blog for the site titled 
-            MovementX Health using Gatsby, React, and GraphQL where articles can be published and used for SEO and campaign purposes.
+            MovementX is a transformative and personalized physical therapy solution. In 2018 and 2019 I was tasked with development of both the front-end using JavaScript, HTML5, and CSS3 
+            along with the back-end that is based in Python, Django, and PostgreSQL. Production occurred in a Linux environment with deployments to AWS. Additionally, I built a blog for the 
+            platform titled MovementX Health using Gatsby, React, and GraphQL where articles will be published and used for SEO and campaign purposes.
           </p>
           <p>
             <a href="https://movement-x.com/" target="_blank" rel="noopener noreferrer"
@@ -177,8 +198,8 @@ const IndexPage = () => (
             AuditQL
           </h2>
           <p>
-            This project is for a fictional auditing company. Using GraphQL for API definition on a Node, Express, and MongoDB back end with React, Apollo, and Styled Components on the front 
-            end, it will allow users to assign auditors to various audit projects and define their parameters.
+            Using GraphQL for API definition on a Node, Express, and MongoDB back end with React, Apollo, and Styled Components on the front end, this project for a fictional auditing company 
+            allows users to assign auditors to various audit projects and define their parameters.
           </p>
           <p>
             <a href="https://github.com/JonnyBeoulve/AuditQL"
@@ -196,8 +217,7 @@ const IndexPage = () => (
             SpaceX Flights
           </h2>
           <p>
-            This React-based website is a virtual museum for all SpaceX flights. Users are able to view a variety of interesting information for each flight and view video footage, all provided 
-            by an unofficial SpaceX API.
+            This React-based website is a virtual museum for all SpaceX flights. Users are able to view information regarding each mission, all provided by an unofficial SpaceX API.
           </p>
           <p>
             <a
@@ -251,8 +271,8 @@ const IndexPage = () => (
             Flight & Flight Architect
           </h2>
           <p>
-            This project is for a fictional private space travel company called Flight. The website was built using HTML and SCSS to demonstrate intermediate and advanced level front-end web 
-            development techniques. The project is linked to an interactive React web app called Flight Architect.
+            This project is for a fictional private space travel company called Flight. The website was built using HTML and SCSS to demonstrate intermediate level front-end web development 
+            techniques. The project is linked to an interactive React web app called Flight Architect.
           </p>
           <p>
             <a
@@ -286,7 +306,8 @@ const IndexPage = () => (
             GameTrial
           </h2>
           <p>
-            This dynamic library management system is for a fictional video game rental company. The website uses Node, Express, Pug, and the SQL ORM Sequelize to interface with a SQLite database containing games, customers, and rentals.
+            This dynamic library management system is for a fictional video game rental company. The website uses Node, Express, Pug, and the SQL ORM Sequelize to interface with a SQLite 
+            database containing games, customers, and rentals.
           </p>
           <p>
             <a
@@ -508,7 +529,7 @@ const IndexPage = () => (
             Sentimental Chat
           </h2>
           <p>
-          A real-time chat web app that includes sentiment analysis with Next.js server-side rendering and a Node/Express based back-end.
+            A real-time chat web app that includes sentiment analysis with Next.js server-side rendering and a Node/Express based back-end.
           </p>
           <p>
             <a
