@@ -522,26 +522,6 @@ const IndexPage = () => (
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio16} alt="" />
-        </div>
-        <div className="content">
-          <h2>
-            Sentimental Chat
-          </h2>
-          <p>
-            A real-time chat web app that includes sentiment analysis with Next.js server-side rendering and a Node/Express based back-end.
-          </p>
-          <p>
-            <a
-              href="https://github.com/JonnyBeoulve/Sentimental-Chat"
-              target="_blank"
-              rel="noopener noreferrer"
-              >View Sentimental Chat Repository</a>
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
           <img src={portfolio17} alt="" />
         </div>
         <div className="content">
