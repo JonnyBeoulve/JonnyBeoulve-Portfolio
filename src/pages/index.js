@@ -40,7 +40,7 @@ const IndexPage = () => (
             About
           </h2>
           <p>
-            I've been boundlessly fascinated by how things work for most of my life. By 15 I built my first PC, and since then I've dedicated myself to the domain of technology.
+            I've been boundlessly fascinated by how things work for most of my life. By 15 I built my first PC, and since then I've dedicated myself to the technology domain.
           </p>
           <p>
           I specialize in web application development with a core competency in constructing intuitive front-end user interfaces that interact with back-end solutions. Equipped 
@@ -70,20 +70,20 @@ const IndexPage = () => (
             <h3>Development</h3>
             <p>
               I'm a developer with experience using JavaScript, TypeScript, React, Apollo, Redux, React Native, SASS/LESS, CSS-in-JS, Node, Express, Python, Django, 
-              GraphQL, SQL, MongoDB, and AWS. I also focused on C++ during college.
+              GraphQL, SQL, MongoDB, AWS, and focused on C++ during college.
             </p>
           </li>
           <li className="icon solid fa-laptop">
             <h3>Project Management</h3>
             <p>
-              I have served in leadership roles managing websites that draw in tens of million of pageviews per month. I also have experience as project manager for four projects, 
-              including work with Northrop Grumman.
+              I have served in leadership roles managing websites that draw in tens of million of pageviews per month, in addition to working as project manager for four projects, 
+              one of which was with Northrop Grumman.
             </p>
           </li>
           <li className="icon solid fa-keyboard">
             <h3>Writing and Editing</h3>
             <p>
-              I've worked in Executive Editor, Managing Editor, and Technical Editor roles responsible for writing and editing content. Since 2009 I've published hundreds of 
+              I've worked as an Executive Editor, Managing Editor, and Technical Editor responsible for writing and editing content. Since 2009 I've published hundreds of 
               gaming/technology reviews, guides, and interviews.
             </p>
           </li>
@@ -101,8 +101,8 @@ const IndexPage = () => (
             PwC Risk Proof
           </h2>
           <p>
-            Risk Proof is one of the products the award winning Digital Crime Fighters team at PwC I'm a member of has been working on. This risk assessment software is being built using 
-            React, JavaScript/TypeScript, Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
+            I'm a member of the award-winning Digital Crime Fighters team at PwC, which has been working on Risk Proof. This risk assessment software is built on React, JavaScript/TypeScript, 
+            Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
           </p>
           <p>
             <a
@@ -122,7 +122,7 @@ const IndexPage = () => (
             Conmitto
           </h2>
           <p>
-            While working at Stackend Solutions one of the projects I led development for was Conmitto, a maintenance, repair, and operations web application built on the React ecosystem.
+            I led development of Conmitto while working at Stackend Solutions. This is a maintenance, repair, and operations web application built on the React ecosystem.
           </p>
           <p>
             <a
