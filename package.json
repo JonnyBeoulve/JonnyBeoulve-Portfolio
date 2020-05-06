@@ -1,6 +1,6 @@
 {
   "name": "jonnybeoulve-portfolio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A portfolio site for full stack developer Jonathan Leack.",
   "author": "Jonathan Leack and Anubhav Srivastava",
   "dependencies": {

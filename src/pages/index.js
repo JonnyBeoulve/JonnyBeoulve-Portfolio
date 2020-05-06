@@ -101,12 +101,20 @@ const IndexPage = () => (
             PwC Risk Proof
           </h2>
           <p>
-            I'm a member of the award-winning Digital Crime Fighters team at PwC, which has been working on Risk Proof. This risk assessment software is built on React, JavaScript/TypeScript, 
-            Apollo, Less, GraphQL, Node, Express, ArangoDB, and more.
+            I'm a member of the award-winning Digital Crime Fighters team at PwC tasked with building enterprise FinTech web applications for Financial Crimes Unit objectives. 
+            We've been working on several projects including Risk Proof, which is risk assessment software crafted using React, JavaScript/TypeScript, Apollo, Less, GraphQL, Node, 
+            Express, ArangoDB, and more.
           </p>
           <p>
             <a
-              href="https://digital.pwc.com/content/pwc-digital/en/products/risk-proof.html"
+              href="https://www.pwc.com/gx/en/services/new-ventures/global-innovation-challenge/digital-crime-fighters.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Read More About Digital Crime Fighters</a>
+          </p>
+          <p>
+            <a
+              href="https://www.pwc.com/us/en/products/risk-proof.html"
               target="_blank"
               rel="noopener noreferrer"
               >Read More About Risk Proof</a>
@@ -243,22 +251,6 @@ const IndexPage = () => (
           <p>
             Built using React Native, NadaBot is a central platform for resources and opportunities that are available for students within their university communities. While working at Stackend 
             Solutions we were contracted to contribute work to the mobile application's development on the front end, including feature iteration, bug fixes, and codebase refactoring.
-          </p>
-          <p>
-            <a
-              href="https://itunes.apple.com/in/app/nadabot/id1346216186?mt=8"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Download NadaBot on App Store</a
-            >
-          </p>
-          <p>
-            <a
-              href="https://play.google.com/store/apps/details?id=com.nadaBot.NADA"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Download NadaBot on Google Play</a
-            >
           </p>
         </div>
       </section>

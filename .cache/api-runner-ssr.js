@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('C:/Users/Jonny/Documents/GitHub/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/jleack/Documents/Projects/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/Jonny/Documents/GitHub/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/jleack/Documents/Projects/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Portfolio","short_name":"Landing","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png"},
     },{
-      plugin: require('C:/Users/Jonny/Documents/GitHub/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/jleack/Documents/Projects/JonnyBeoulve-Portfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
