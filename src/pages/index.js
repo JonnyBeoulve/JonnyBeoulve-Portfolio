@@ -45,14 +45,14 @@ const IndexPage = () => (
           <p>
           I specialize in web application development with a core competency in constructing intuitive front-end user interfaces that interact with back-end solutions. Equipped 
           with a Computer Information Systems background, I primarily work with JavaScript, TypeScript, React, Apollo, Redux, SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, 
-          SQL, and MongoDB.
+          SQL, and NoSQL.
           </p>
         </header>
         <ul className="icons major">
           <li>
-            <a href="https://www.linkedin.com/in/jleack/">
+            <a href="https://www.linkedin.com/in/jleack/" target="_blank" rel="noopener noreferrer">
               <span className="icon brands fa-linkedin major style4">
-                <span className="label">Ipsum</span>
+                <span className="label">LinkedIn</span>
               </span>
             </a>
           </li>
@@ -70,7 +70,7 @@ const IndexPage = () => (
             <h3>Development</h3>
             <p>
               I'm a developer with experience using JavaScript, TypeScript, React, Apollo, Redux, React Native, SASS/LESS, CSS-in-JS, Node, Express, Python, Django, 
-              GraphQL, SQL, MongoDB, AWS, and focused on C++ during college.
+              GraphQL, SQL, NoSQL, AWS, and focused on C++ during college.
             </p>
           </li>
           <li className="icon solid fa-laptop">
@@ -150,8 +150,9 @@ const IndexPage = () => (
             Redux Saga Frontier
           </h2>
           <p>
-            This JavaScript based game allows users to randomize then confirm a group of four characters to embark on a RPG journey. The program is intended to demonstrate handling array 
-            structure state with Redux and Saga in React. Two APIs are used with references to one another to provide both sprite avatars and character data.
+            This exploratory side project is a JavaScript based game allowing users to randomize then confirm a group of four characters to embark on a journey. The program 
+            is intended to demonstrate the handling of array structured state with Redux and Saga in React. Two APIs are used with references to one another to provide both 
+            sprite avatars and character data.
           </p>
           <p>
             <a
@@ -178,9 +179,9 @@ const IndexPage = () => (
             MovementX
           </h2>
           <p>
-            MovementX is a transformative and personalized physical therapy solution. In 2018 and 2019 I was tasked with development of both the front-end using JavaScript, HTML5, and CSS3 
-            along with the back-end that is based in Python, Django, and PostgreSQL. Production occurred in a Linux environment with deployments to AWS. Additionally, I built a blog for the 
-            platform titled MovementX Health using Gatsby, React, and GraphQL where articles will be published and used for SEO and campaign purposes.
+            In 2018 and 2019 I served as Lead Full Stack Developer for MovementX. Feature introduction was performed using JavaScript, SASS, Python/Django, and PostgreSQL. Production 
+            occurred in a Linux environment with deployments and monitoring on AWS. Additionally, I crafted a prototype for a custom blog titled MovementX Health using Gatsby, React, 
+            and GraphQL where articles were to be published and used for SEO and campaign purposes.
           </p>
           <p>
             <a href="https://movement-x.com/" target="_blank" rel="noopener noreferrer"
@@ -207,10 +208,11 @@ const IndexPage = () => (
           </h2>
           <p>
             Using GraphQL for API definition on a Node, Express, and MongoDB back end with React, Apollo, and Styled Components on the front end, this project for a fictional auditing company 
-            allows users to assign auditors to various audit projects and define their parameters.
+            allows users to assign auditors to various audit projects and define their parameters. I built this prior to onboarding in my PwC role to become acquainted with their technology
+            stack.
           </p>
           <p>
-            <a href="https://github.com/JonnyBeoulve/AuditQL"
+            <a href="https://github.com/JonnyBeoulve/AuditQL" target="_blank" rel="noopener noreferrer"
               >View AuditQL Repository</a
             >
           </p>
@@ -249,8 +251,8 @@ const IndexPage = () => (
             Nadabot
           </h2>
           <p>
-            Built using React Native, NadaBot is a central platform for resources and opportunities that are available for students within their university communities. While working at Stackend 
-            Solutions we were contracted to contribute work to the mobile application's development on the front end, including feature iteration, bug fixes, and codebase refactoring.
+            Built using React Native, NadaBot was a central platform for resources and opportunities that were available for students within their university communities. While working at 
+            Stackend Solutions we were contracted to contribute work to the mobile application's development on the front end, including feature iteration, bug fixes, and codebase refactoring.
           </p>
         </div>
       </section>
@@ -323,7 +325,7 @@ const IndexPage = () => (
             Hack the Now and Next: The Future of Media Hackathon
           </h2>
           <p>
-            I was a member of the Weird A.I. team that earned 3rd place out of 60 participants at Globant's The Future of Media hackathon.
+            I was a member of the Weird A.I. team that earned third place out of 60 participants at Globant's The Future of Media hackathon.
           </p>
           <p>
             <a
@@ -352,7 +354,7 @@ const IndexPage = () => (
             Ladybug Frogger
           </h2>
           <p>
-            This is an object-oriented JavaScript ES6 game that plays similar to the retro classic Frogger.
+            This is an pseudo object-oriented JavaScript ES6 game that plays similar to the retro classic Frogger.
           </p>
           <p>
             <a
@@ -399,7 +401,8 @@ const IndexPage = () => (
             ArcGIS Challenge
           </h2>
           <p>
-            For this timed coding challenge I used the ArcGIS API to build a map scene in React that allows the user to filter an array of objects and display the location and attributes of the filtered results.
+            For this timed coding challenge I used the ArcGIS API to build a map scene in React that allows the user to filter an array of objects and display the location and 
+            attributes of the filtered results.
           </p>
           <p>
             <a
@@ -457,8 +460,8 @@ const IndexPage = () => (
             Northrop Grumman Reporting System (CIS-490 Project)
           </h2>
           <p>
-            I was project manager for my senior project where I worked with five other students in joint application design format. Our client was Northrop Grumman, who wanted a reporting system that 
-            would allow users to upload project reports to a repository.
+            I was project manager for my senior project where I worked with five other students in joint application design format. Our client was Northrop Grumman, 
+            who wanted a reporting system that would allow users to upload project reports to a repository.
           </p>
           <p>
             <a href="envisage_cis490.pdf" download>View Final Report</a>
@@ -474,8 +477,8 @@ const IndexPage = () => (
             Hack the Now and Next: AI Edition Hackathon
           </h2>
           <p>
-            I was a member of the Recycle Bits team that earned 2nd place out of 60 participants at Globant's February 2018 hackathon. Our project utilized Microsoft Cognititive Services' image-processing 
-            algorithms to determine whether an object in a user-submitted image is recyclable or not. I'm now continuing development of the iOS/Android app using React Native.
+            I was a member of the Recycle Bits team that earned 2nd place out of 60 participants at Globant's February 2018 hackathon. Our project utilized Microsoft 
+            Cognititive Services' image-processing algorithms to determine whether an object in a user-submitted image is recyclable or not.
           </p>
           <p>
             <a

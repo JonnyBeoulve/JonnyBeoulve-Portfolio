@@ -9,7 +9,7 @@ export default function Footer() {
           const { style, icon, name, url } = social;
           return (
             <li key={url}>
-              <a href={url} className={`icon ${style} ${icon}`}>
+              <a href={url} target="_blank" rel="noopener noreferrer" className={`icon ${style} ${icon}`}>
                 <span className="label">{name}</span>
               </a>
             </li>
