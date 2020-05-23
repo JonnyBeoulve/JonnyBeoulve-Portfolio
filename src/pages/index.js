@@ -115,9 +115,9 @@ const IndexPage = () => (
             I'm a member of the award-winning Digital Crime Fighters team at PwC
             tasked with building enterprise FinTech web applications for
             Financial Crimes Unit objectives. We've been working on several
-            projects including Risk Proof, which is FinTech risk assessment
-            software crafted using React, JavaScript, TypeScript, Apollo, LESS,
-            GraphQL, Node, Express, ArangoDB, and more.
+            projects including Risk Proof, which is risk assessment software
+            crafted using React, JavaScript, TypeScript, Apollo, LESS, GraphQL,
+            Node, Express, ArangoDB, and more.
           </p>
           <p>
             <a
