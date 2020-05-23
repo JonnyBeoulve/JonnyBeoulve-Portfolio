@@ -121,7 +121,7 @@ const IndexPage = () => (
           </p>
           <p>
             <a
-              href="https://www.https://www.pwc.com/us/en/products/risk-proof.html"
+              href="https://www.pwc.com/gx/en/services/new-ventures/global-innovation-challenge/digital-crime-fighters.html"
               target="_blank"
               rel="noopener noreferrer"
             >
