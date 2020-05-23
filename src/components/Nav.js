@@ -17,36 +17,30 @@ export default function Nav({ onMenuToggle = () => {} }) {
             <span>Menu</span>
           </a>
           <div id="menu">
-            <ul onClick={e => {
+            <ul
+              onClick={e => {
                 e.preventDefault();
                 onMenuToggle();
-              }}>
+              }}
+            >
               <li>
                 <Scroll type="id" element="">
-                  <a href="/">
-                    Home
-                  </a>
+                  <a href="/">Home</a>
                 </Scroll>
               </li>
               <li>
                 <Scroll type="id" element="about">
-                  <a href="#about">
-                    About
-                  </a>
+                  <a href="#about">About</a>
                 </Scroll>
               </li>
               <li>
                 <Scroll type="id" element="skillset">
-                  <a href="#skillset">
-                    Skillset
-                  </a>
+                  <a href="#skillset">Skillset</a>
                 </Scroll>
               </li>
               <li>
                 <Scroll type="id" element="portfolio">
-                  <a href="#portfolio">
-                    Portfolio
-                  </a>
+                  <a href="#portfolio">Portfolio</a>
                 </Scroll>
               </li>
             </ul>

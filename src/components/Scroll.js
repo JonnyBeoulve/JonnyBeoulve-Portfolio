@@ -58,7 +58,7 @@ class Scroll extends React.Component {
       window.scroll({ top: elemPos + offSet, left: 0, behavior: 'smooth' });
     }
   }
-  
+
   render() {
     return (
       <Element>

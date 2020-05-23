@@ -4,7 +4,7 @@ import Nav from './Nav';
 
 export default function SideBar({ fullMenu }) {
   const [headerOpen, toggleHeader] = useState(false);
-  
+
   return (
     <header id="header" className={`${fullMenu ? '' : 'alt'}`}>
       <h1>
