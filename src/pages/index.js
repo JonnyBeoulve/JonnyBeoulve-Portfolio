@@ -74,12 +74,12 @@ const IndexPage = () => (
         </header>
         <ul className="features">
           <li className="icon solid fa-code">
-            <h3>Development</h3>
+            <h3>Software Engineering</h3>
             <p>
-              I'm a developer with experience using JavaScript, TypeScript,
-              React, Apollo, Redux, React Native, SASS/LESS, CSS-in-JS, Node,
-              Express, Python, Django, GraphQL, SQL, NoSQL, AWS, and focused on
-              C++ during college.
+              I'm a software engineer with experience using JavaScript,
+              TypeScript, React, Apollo, Redux, React Native, SASS/LESS,
+              CSS-in-JS, Node, Express, Python, Django, GraphQL, SQL, NoSQL,
+              AWS, and focused on C++ during college.
             </p>
           </li>
           <li className="icon solid fa-laptop">
@@ -228,10 +228,9 @@ const IndexPage = () => (
             For more than a year I served as Lead Full Stack Developer for
             MovementX, a physical therapy company. I worked directly with a team
             of doctors to develop their platform using JavaScript, SASS, Python,
-            Django, and PostgreSQL. Production occurred in a Linux environment
-            with deployments and monitoring on AWS. Additionally, I crafted a
-            prototype for a custom blog titled MovementX Health using Gatsby,
-            React, and GraphQL.
+            Django, and PostgreSQL, with deployments and DevOps work performed
+            on AWS. Additionally, I crafted a prototype for a custom blog titled
+            MovementX Health using Gatsby, React, and GraphQL.
           </p>
           <p>
             <a
@@ -459,7 +458,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              Demo Glynne Davies Portfolio
+              View Glynne Davies' Portfolio
             </a>
           </p>
         </div>
