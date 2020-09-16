@@ -38,17 +38,16 @@ const IndexPage = () => (
         <header className="major">
           <h2>About</h2>
           <p>
-            I've been boundlessly fascinated by how things work for most of my
-            life. By 15 I built my first PC, and since then I've dedicated
-            myself to the technology domain.
+            Software Engineer with a core competency in constructing intuitive
+            front-end interfaces that interact with back-end solutions. Equipped
+            with a Computer Information Systems background and professional
+            experience using modern JavaScript stacks to create web applications
+            for multiple vertical markets including FinTech, health, and
+            publishing.
           </p>
           <p>
-            I specialize in web application development with a core competency
-            in constructing intuitive front-end user interfaces that interact
-            with back-end solutions. Equipped with a Computer Information
-            Systems background, I primarily work with JavaScript, TypeScript,
-            React, Apollo, Redux, SCSS/LESS, CSS-in-JS, Node, Express, GraphQL,
-            SQL, and NoSQL.
+            I primarily work with JavaScript, TypeScript, React, Apollo, Redux,
+            SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
           </p>
         </header>
         <ul className="icons major">
@@ -60,6 +59,13 @@ const IndexPage = () => (
             >
               <span className="icon brands fa-linkedin major style4">
                 <span className="label">LinkedIn</span>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="jleack_resume.pdf" download>
+              <span className="icon fa-file-pdf major style4">
+                <span className="label">Portfolio</span>
               </span>
             </a>
           </li>
