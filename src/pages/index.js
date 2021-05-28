@@ -38,16 +38,15 @@ const IndexPage = () => (
         <header className="major">
           <h2>About</h2>
           <p>
-            Software Engineer with a core competency in constructing intuitive
-            front-end interfaces that interact with back-end solutions. Equipped
-            with a Computer Information Systems background and professional
-            experience using modern JavaScript stacks to create web applications
-            for multiple vertical markets including FinTech, health, and
-            publishing.
+            Software Engineer with a core competency in constructing intuitive front-end 
+            interfaces that interact with back-end solutions. Equipped with a Computer 
+            Information Systems background and professional experience using modern JavaScript 
+            stacks to create web applications for multiple vertical markets including FinTech, 
+            health, and publishing.
           </p>
           <p>
-            I primarily work with JavaScript, TypeScript, React, Apollo, Redux,
-            SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
+            I primarily work with JavaScript, TypeScript, React, Apollo, Redux, SCSS/LESS, 
+            CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
           </p>
         </header>
         <ul className="icons major">
@@ -83,7 +82,7 @@ const IndexPage = () => (
             <h3>Software Engineering</h3>
             <p>
               I'm a software engineer with experience using JavaScript,
-              TypeScript, React, Apollo, Redux, React Native, SASS/LESS,
+              TypeScript, React, Apollo, Redux, React Native, SCSS/LESS,
               CSS-in-JS, Node, Express, Python, Django, GraphQL, SQL, NoSQL,
               AWS, and focused on C++ during college.
             </p>
@@ -113,7 +112,7 @@ const IndexPage = () => (
     <section id="portfolio" className="wrapper alt">
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio18} alt="" />
+          <img src={portfolio18} alt="pwc risk proof software" />
         </div>
         <div className="content">
           <h2>PwC Risk Proof</h2>
@@ -147,7 +146,7 @@ const IndexPage = () => (
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio5} alt="" />
+          <img src={portfolio5} alt="home lending pal software" />
         </div>
         <div className="content">
           <h2>Home Lending Pal</h2>
@@ -162,14 +161,14 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Home Lending Pal Main Website
+              Read More About Home Lending Pal
             </a>
           </p>
         </div>
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio16} alt="" />
+          <img src={portfolio16} alt="conmitto software" />
         </div>
         <div className="content">
           <h2>Conmitto</h2>
@@ -184,7 +183,41 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Conmitto Main Website
+              Read More About Conmitto
+            </a>
+          </p>
+        </div>
+      </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={portfolio2} alt="movementx home page" />
+        </div>
+        <div className="content">
+          <h2>MovementX</h2>
+          <p>
+            For more than a year I served as Lead Full Stack Developer for
+            MovementX, a physical therapy company. I worked directly with a team
+            of doctors to develop their platform using JavaScript, SCSS, Python,
+            Django, and PostgreSQL, with deployments and DevOps work performed
+            on AWS. Additionally, I crafted a prototype for a custom blog titled
+            MovementX Health using Gatsby, React, and GraphQL.
+          </p>
+          <p>
+            <a
+              href="https://movement-x.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Read More About MovementX
+            </a>
+          </p>
+          <p>
+            <a
+              href="https://movementx-health.netlify.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Demo MovementX Health
             </a>
           </p>
         </div>
@@ -200,8 +233,8 @@ const IndexPage = () => (
             randomize then confirm a group of four characters to embark on a
             journey. The program is intended to demonstrate the handling of
             array structured state with Redux in React, and served as an
-            exploratory side project for my experimentation with Sagas and
-            Generators. Two APIs are used with references to one another to
+            exploratory side project for my experimentation with sagas and
+            generators. Two APIs are used with references to one another to
             provide sprite avatars and character data.
           </p>
           <p>
@@ -220,40 +253,6 @@ const IndexPage = () => (
               rel="noopener noreferrer"
             >
               Demo Redux Saga Frontier
-            </a>
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
-          <img src={portfolio2} alt="" />
-        </div>
-        <div className="content">
-          <h2>MovementX</h2>
-          <p>
-            For more than a year I served as Lead Full Stack Developer for
-            MovementX, a physical therapy company. I worked directly with a team
-            of doctors to develop their platform using JavaScript, SASS, Python,
-            Django, and PostgreSQL, with deployments and DevOps work performed
-            on AWS. Additionally, I crafted a prototype for a custom blog titled
-            MovementX Health using Gatsby, React, and GraphQL.
-          </p>
-          <p>
-            <a
-              href="https://movement-x.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              View MovementX Main Website
-            </a>
-          </p>
-          <p>
-            <a
-              href="https://movementx-health.netlify.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Demo MovementX Health
             </a>
           </p>
         </div>
@@ -324,7 +323,7 @@ const IndexPage = () => (
             This project is for a fictional private space travel company called
             Flight. The website was built using HTML and SCSS to demonstrate
             intermediate level front-end web development techniques. The project
-            is linked to an interactive React web app called Flight Architect.
+            is linked to an interactive React web application called Flight Architect.
           </p>
           <p>
             <a
@@ -357,38 +356,6 @@ const IndexPage = () => (
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio7} alt="" />
-        </div>
-        <div className="content">
-          <h2>GameTrial</h2>
-          <p>
-            This dynamic library management system is for a fictional video game
-            rental company. The website uses Node, Express, Pug, and the SQL ORM
-            Sequelize to interface with a SQLite database containing games,
-            customers, and rentals.
-          </p>
-          <p>
-            <a
-              href="https://github.com/JonnyBeoulve/GameTrial"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              View GameTrial Repository
-            </a>
-          </p>
-          <p>
-            <a
-              href="https://gametrial.herokuapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Demo GameTrial
-            </a>
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
           <img src={portfolio8} alt="" />
         </div>
         <div className="content">
@@ -403,7 +370,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Weird A.I. Hackathon Repository
+              View Weird A.I. Repository
             </a>
           </p>
           <p>
@@ -443,6 +410,38 @@ const IndexPage = () => (
               rel="noopener noreferrer"
             >
               Demo Ladybug Frogger
+            </a>
+          </p>
+        </div>
+      </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={portfolio7} alt="" />
+        </div>
+        <div className="content">
+          <h2>GameTrial</h2>
+          <p>
+            This dynamic library management system is for a fictional video game
+            rental company. The website uses Node, Express, Pug, and the SQL ORM
+            Sequelize to interface with a SQLite database containing games,
+            customers, and rentals.
+          </p>
+          <p>
+            <a
+              href="https://github.com/JonnyBeoulve/GameTrial"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View GameTrial Repository
+            </a>
+          </p>
+          <p>
+            <a
+              href="https://gametrial.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Demo GameTrial
             </a>
           </p>
         </div>
@@ -545,7 +544,7 @@ const IndexPage = () => (
           </p>
           <p>
             <a href="envisage_cis490.pdf" download>
-              View Final Report
+              Download Northrop Grumman Reporting System Final Report
             </a>
           </p>
         </div>
@@ -569,7 +568,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Recycle Bits Hackathon Repository
+              View Recycle Bits Repository
             </a>
           </p>
           <p>
@@ -578,7 +577,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Recycle Bits App Repository
+              View Recycle Bits Repository
             </a>
           </p>
         </div>
@@ -609,7 +608,7 @@ const IndexPage = () => (
           <img src={portfolio17} alt="" />
         </div>
         <div className="content">
-          <h2>Elite: Dangerous Story</h2>
+          <h2>Elite: Dangerous Article</h2>
           <p>
             In 2017 I wrote a detailed story about my journey deep into the
             Milky Way galaxy in a game titled Elite: Dangerous.
@@ -620,7 +619,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Elite: Dangerous Story
+              View Elite: Dangerous Article
             </a>
           </p>
         </div>

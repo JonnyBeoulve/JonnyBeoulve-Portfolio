@@ -22,7 +22,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; 2020 Jonathan Leack</li>
+        <li>&copy; 2021 Jonathan Leack</li>
         <li>Bellevue, WA</li>
       </ul>
     </footer>
