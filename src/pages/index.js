@@ -435,7 +435,7 @@ const IndexPage = () => (
               View GameTrial Repository
             </a>
           </p>
-          <p>l
+          <p>
             <a
               href="https://gametrial.herokuapp.com/"
               target="_blank"
