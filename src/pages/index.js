@@ -173,7 +173,7 @@ const IndexPage = () => (
         <div className="content">
           <h2>Conmitto</h2>
           <p>
-            While working at Stackend Solutions I additionally led front end
+            During my time at Stackend Solutions I additionally led front end
             development of Conmitto, a maintenance, repair, and operations web
             application built on the React ecosystem.
           </p>
@@ -435,7 +435,7 @@ const IndexPage = () => (
               View GameTrial Repository
             </a>
           </p>
-          <p>
+          <p>l
             <a
               href="https://gametrial.herokuapp.com/"
               target="_blank"
