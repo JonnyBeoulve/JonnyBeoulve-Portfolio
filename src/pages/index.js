@@ -112,40 +112,6 @@ const IndexPage = () => (
     <section id="portfolio" className="wrapper alt">
       <section className="spotlight">
         <div className="image">
-          <img src={portfolio18} alt="pwc risk proof software" />
-        </div>
-        <div className="content">
-          <h2>PwC Risk Proof</h2>
-          <p>
-            I'm a member of the award-winning Digital Crime Fighters team at PwC
-            tasked with building enterprise FinTech web applications for
-            Financial Crimes Unit objectives. We've been working on several
-            projects including Risk Proof, which is risk assessment software
-            crafted using React, JavaScript, TypeScript, Apollo, LESS, GraphQL,
-            Node, Express, ArangoDB, and more.
-          </p>
-          <p>
-            <a
-              href="https://www.pwc.com/gx/en/services/new-ventures/global-innovation-challenge/digital-crime-fighters.html"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Read More About Digital Crime Fighters
-            </a>
-          </p>
-          <p>
-            <a
-              href="https://www.pwc.com/us/en/products/risk-proof.html"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Read More About Risk Proof
-            </a>
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
           <img src={portfolio5} alt="home lending pal software" />
         </div>
         <div className="content">
