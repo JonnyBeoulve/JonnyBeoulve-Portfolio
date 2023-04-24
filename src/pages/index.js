@@ -18,7 +18,6 @@ import portfolio14 from '../assets/images/portfolio14.jpg';
 import portfolio15 from '../assets/images/portfolio15.jpg';
 import portfolio16 from '../assets/images/portfolio16.jpg';
 import portfolio17 from '../assets/images/portfolio17.jpg';
-import portfolio18 from '../assets/images/portfolio18.jpg';
 import config from '../../config';
 
 const IndexPage = () => (
@@ -38,15 +37,14 @@ const IndexPage = () => (
         <header className="major">
           <h2>About</h2>
           <p>
-            Software Engineer with a core competency in constructing intuitive front-end 
-            interfaces that interact with back-end solutions. Equipped with a Computer 
-            Information Systems background and professional experience using modern JavaScript 
-            stacks to create web applications for multiple vertical markets including FinTech, 
-            health, and publishing.
+            Software Engineering Manager with a core competency in leading engineering teams with 
+            an emphasis on front end development. Equipped with a Computer Information Systems background 
+            I've collaborated with product and design teams to deliver products and releases across 
+            multiple vertical markets including FinTech, health, and publishing.
           </p>
           <p>
-            I primarily work with JavaScript, TypeScript, React, Apollo, Redux, SCSS/LESS, 
-            CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
+            I've primarily worked with tech stacks involving JavaScript, TypeScript, React, Apollo, Redux, 
+            SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
           </p>
         </header>
         <ul className="icons major">
