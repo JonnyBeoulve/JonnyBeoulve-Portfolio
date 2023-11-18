@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   heading: 'Jonathan Leack',
-  subHeading: 'Software Engineer',
+  subHeading: 'Software Engineering Manager',
   socialLinks: [
     {
       style: 'brands',
