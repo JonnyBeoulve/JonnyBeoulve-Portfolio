@@ -22,8 +22,8 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; 2022 Jonathan Leack</li>
-        <li>Bellevue, WA</li>
+        <li>&copy; 2024 Jonathan Leack</li>
+        <li>Renton, WA</li>
       </ul>
     </footer>
   );
