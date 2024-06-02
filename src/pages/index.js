@@ -37,10 +37,10 @@ const IndexPage = () => (
         <header className="major">
           <h2>About</h2>
           <p>
-            Software Engineering Manager with a core competency in leading engineering teams with 
-            an emphasis on front end development. Equipped with a Computer Information Systems background 
-            I've collaborated with product and design teams to deliver products and releases across 
-            multiple vertical markets including FinTech, health, and publishing.
+            Software Engineer with a core competency in leading engineering teams with an emphasis on 
+            front end development. Equipped with a Computer Information Systems background I've collaborated 
+            with both product and design teams to deliver software across multiple vertical markets including 
+            FinTech, health, and publishing.
           </p>
           <p>
             I've primarily worked with tech stacks involving JavaScript, TypeScript, React, Apollo, Redux, 
