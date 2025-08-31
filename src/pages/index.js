@@ -37,14 +37,15 @@ const IndexPage = () => (
         <header className="major">
           <h2>About</h2>
           <p>
-            Software Engineer with a core competency in leading engineering teams with an emphasis on 
-            front end development. Equipped with a Computer Information Systems background I've collaborated 
-            with both product and design teams to deliver software across multiple vertical markets including 
-            FinTech, health, and publishing.
+            I'm a Software Engineer with a Computer Information Systems background and over 7-years of experience 
+            collaborating alongside product teams. My core competency is front-end interface development, with a 
+            record of delivering user-friendly solutions across markets that include FinTech, AI, healthcare, 
+            consulting, and publishing.
           </p>
           <p>
-            I've primarily worked with tech stacks involving JavaScript, TypeScript, React, Apollo, Redux, 
-            SCSS/LESS, CSS-in-JS, Node, Express, GraphQL, SQL, and NoSQL.
+            I've primarily worked with tech stacks involving TypeScript, JavaScript, React, SCSS, CSS, Node, Python, 
+            SQL, and AI models such as ChatGPT.
+
           </p>
         </header>
         <ul className="icons major">
@@ -81,17 +82,17 @@ const IndexPage = () => (
             <p>
               I'm a software engineer with experience using JavaScript,
               TypeScript, React, Apollo, Redux, React Native, SCSS/LESS,
-              CSS-in-JS, Node, Express, Python, Django, GraphQL, SQL, NoSQL,
-              AWS, and focused on C++ during college.
+              Node, Express, Python, Django, GraphQL, SQL, NoSQL, AWS, 
+              Azure, as well as AI such as ChatGPT.
             </p>
           </li>
           <li className="icon solid fa-laptop">
             <h3>Project Management</h3>
             <p>
-              I have served in leadership roles managing websites that draw in
-              tens of million of pageviews per month, in addition to working as
-              project manager for four projects, one of which was with Northrop
-              Grumman.
+              I have served in leadership roles managing development teams, 
+              websites that drive millions of monthly views, in addition to 
+              working as project manager for four team including work with
+              Northrop Grumman.
             </p>
           </li>
           <li className="icon solid fa-keyboard">
@@ -116,8 +117,8 @@ const IndexPage = () => (
           <h2>Home Lending Pal</h2>
           <p>
             While working as Lead Front End Developer at Stackend Solutions I
-            spearheaded front end development of Home Lending Pal, an AI-powered
-            mortgage advisor built on the React ecosystem.
+            spearheaded front end development of Home Lending Pal (now known as Pathfinder), 
+            an AI-powered mortgage advisor built on the React ecosystem.
           </p>
           <p>
             <a
@@ -173,15 +174,6 @@ const IndexPage = () => (
               rel="noopener noreferrer"
             >
               Read More About MovementX
-            </a>
-          </p>
-          <p>
-            <a
-              href="https://movementx-health.netlify.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Demo MovementX Health
             </a>
           </p>
         </div>
@@ -337,15 +329,6 @@ const IndexPage = () => (
               View Weird A.I. Repository
             </a>
           </p>
-          <p>
-            <a
-              href="https://weird-ai-c3e96.firebaseapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Demo Weird A.I.
-            </a>
-          </p>
         </div>
       </section>
       <section className="spotlight">
@@ -397,37 +380,6 @@ const IndexPage = () => (
               rel="noopener noreferrer"
             >
               View GameTrial Repository
-            </a>
-          </p>
-          <p>
-            <a
-              href="https://gametrial.herokuapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Demo GameTrial
-            </a>
-          </p>
-        </div>
-      </section>
-      <section className="spotlight">
-        <div className="image">
-          <img src={portfolio10} alt="" />
-        </div>
-        <div className="content">
-          <h2>Glynne Davies Portfolio</h2>
-          <p>
-            I constructed and set up SEO for the official portfolio of Glynne
-            Davies, a Seattle based stylist I met while at a photoshoot for
-            GoDaddy.
-          </p>
-          <p>
-            <a
-              href="https://www.glynnedavies.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              View Glynne Davies' Portfolio
             </a>
           </p>
         </div>
@@ -532,7 +484,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Recycle Bits Repository
+              View Recycle Bits Repository #1
             </a>
           </p>
           <p>
@@ -541,7 +493,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              View Recycle Bits Repository
+              View Recycle Bits Repository #2
             </a>
           </p>
         </div>
