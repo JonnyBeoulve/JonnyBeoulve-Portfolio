@@ -10,7 +10,6 @@ import portfolio6 from '../assets/images/portfolio6.jpg';
 import portfolio7 from '../assets/images/portfolio7.jpg';
 import portfolio8 from '../assets/images/portfolio8.jpg';
 import portfolio9 from '../assets/images/portfolio9.jpg';
-import portfolio10 from '../assets/images/portfolio10.jpg';
 import portfolio11 from '../assets/images/portfolio11.jpg';
 import portfolio12 from '../assets/images/portfolio12.jpg';
 import portfolio13 from '../assets/images/portfolio13.jpg';
@@ -91,7 +90,7 @@ const IndexPage = () => (
             <p>
               I have served in leadership roles managing development teams, 
               websites that drive millions of monthly views, in addition to 
-              working as project manager for four team including work with
+              working as project manager for four teams including work with
               Northrop Grumman.
             </p>
           </li>
